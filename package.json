@@ -1,6 +1,6 @@
 {
-  "name": "json-rules-engine",
-  "version": "6.1.2",
+  "name": "@reachsuite/json-rules-engine",
+  "version": "6.1.2-not",
   "description": "Rules Engine expressed in simple json",
   "main": "dist/index.js",
   "types": "types/index.d.ts",
